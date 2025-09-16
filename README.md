@@ -1,2 +1,2 @@
 # connectHR-training
-Training repo
+Training repository
